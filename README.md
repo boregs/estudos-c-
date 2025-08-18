@@ -1,1 +1,1 @@
-Repositorio dedicado ao estudos das linguagens C++ e C, com projetos individuais e universitarios
+Repositorio dedicado ao estudos da linguagem C, com projetos individuais e universitarios
