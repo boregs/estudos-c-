@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1756427437 source:c:\users\rafaelborgesdasilva\documents\projects\aula_03\tempconverter\main.c
+	<stdio.h>
+	<stdlib.h>
+
