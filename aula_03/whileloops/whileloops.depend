@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1756421402 source:c:\users\rafaelborgesdasilva\documents\projects\aula03\whileloops\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1756422252 source:c:\users\rafaelborgesdasilva\documents\projects\aula03\whileloops\while.c
+	<stdio.h>
+	<stdlib.h>
+
