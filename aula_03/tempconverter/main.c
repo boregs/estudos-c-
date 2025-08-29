@@ -5,7 +5,7 @@
 float CelsiusToFarenheit(float celsius) {
     return (celsius * 9.0/5.0) + 32.0;
 }
-
+//teste
 int main()
 {
     float celsius;
@@ -14,6 +14,6 @@ int main()
     scanf("%f",&celsius);
 
     float farenheit = CelsiusToFarenheit(celsius);
-    printf("Temperatura em Farenheit: %.2f\n", farenheit);
+    printf("temperatura em Farenheit: %2.f", facenheit);
 
 }
