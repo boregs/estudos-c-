@@ -1,11 +1,11 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-//função para converter uma temperatura em Celsius para Farenheit
+//funÃ§Äƒo para converter uma temperatura em Celsius para Farenheit
 float CelsiusToFarenheit(float celsius) {
     return (celsius * 9.0/5.0) + 32.0;
 }
-//teste
+
 int main()
 {
     float celsius;
@@ -14,6 +14,6 @@ int main()
     scanf("%f",&celsius);
 
     float farenheit = CelsiusToFarenheit(celsius);
-    printf("temperatura em Farenheit: %2.f", facenheit);
+    printf("temperatura em Farenheit: %2.f", farenheit);
 
 }
