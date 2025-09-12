@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1757635106 source:c:\users\rafaelborgesdasilva\documents\projects\aula_05\switchcases\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1757635835 source:c:\users\rafaelborgesdasilva\documents\projects\aula_05\switchcases\get_ch.c
+	<stdio.h>
+	<conio.h>
+
