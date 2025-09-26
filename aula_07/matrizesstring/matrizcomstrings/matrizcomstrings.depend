@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1758846219 source:c:\users\rafaelborgesdasilva\documents\projects\aula_07\matrizesstring\matrizcomstrings\main.c
+	<stdio.h>
+	<string.h>
+
