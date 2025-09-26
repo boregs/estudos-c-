@@ -16,7 +16,6 @@ int main()
             contador++;
         }
     }
-
     for(int linha = 0; linha < linhas; linha++){
         for(int coluna = 0; coluna < colunas; coluna++){
             printf(" %02d", m2[linha][coluna] );
@@ -24,5 +23,4 @@ int main()
         }
         printf("\n");
     }
-
 }
